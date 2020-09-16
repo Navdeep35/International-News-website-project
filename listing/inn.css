@@ -1,0 +1,13 @@
+.box{
+height:300px;
+width:300px;
+border:2px solid black;
+float:right;
+background:#f3f3f3;
+}
+.p{
+border:2px solid black;
+}	
+a{
+	text-decoration:none;
+}
